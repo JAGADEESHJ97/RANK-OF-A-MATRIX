@@ -26,10 +26,10 @@ import numpy as np
 matrix = np.array([[3, 2, 5], [1, 1, 2], [3, 3, 6]])
 rank = np.linalg.matrix_rank(matrix)
 print(rank)
-```
+
 #Developed by: NARASIMHAN S
 #RegisterNumber: 212223230133
-
+```
 ## Output:
 ![alt text](<Screenshot 2024-04-10 205838.png>)
 
